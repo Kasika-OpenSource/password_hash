@@ -1,7 +1,7 @@
 package hasher_test
 
 import (
-	"github.com/kasika-xyz/password_hash/hasher"
+	"github.com/Kasika-OpenSource/password_hash/hasher"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
