@@ -1,4 +1,4 @@
-module github.com/Kasika-OpenSource/password_hash
+module github.com/kasika-technologies/password_hash
 
 go 1.13
 
